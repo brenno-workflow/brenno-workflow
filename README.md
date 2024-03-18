@@ -7,7 +7,7 @@
 
 🤖 Engineer of Computer Engineering - UNIVESP (Piracicaba/SP)
 
-💻 Python Developer/Systems Analyst
+💻 Python Developer / RPA / Systems Analyst
 
 ## Skills 👨‍💻
 
