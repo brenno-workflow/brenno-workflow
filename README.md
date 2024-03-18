@@ -25,7 +25,7 @@
 
 🔨 Low-Code plataforms
 
-🍃 No-code plataforms
+🍃 No-Code plataforms
 
 
 # I’m currently learning 🌱
