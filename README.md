@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there, I'm Brenno 👋🔧⚙👨‍💻
 
-<!--
-**brenno-workflow/brenno-workflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Bachelor of Laws - UNIMEP (Piracicaba/SP)
+
+🤖 Engineer of Computer Engineering - UNIVEP (Piracicaba/SP)
+
+💻 Python Developer/Systems Analyst
+
+## Skills 👨‍💻
+
+🐍 Python
+
+📄 SQL
+
+☕ JavaScript
+
+📚 VBA
+
+🎲 Data Analytics
+
+📊 Data Visualization
+
+🔨 Low-Code plataforms
+
+🍃 No-code plataforms
+
+
+# I’m currently learning 🌱
+
+✍ Power BI
+
+📝 BigData 
+
+📈 DataLake
+
+
+# How to reach me 📫 
+
+➡ [Linkedin](https://www.linkedin.com/in/brenno-brossi/)
