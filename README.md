@@ -5,7 +5,7 @@
 
 👨‍🎓 Bachelor of Laws - UNIMEP (Piracicaba/SP)
 
-🤖 Engineer of Computer Engineering - UNIVESP (Piracicaba/SP)
+🤖 Bachelor of Engineering in Computer Engineering - UNIVESP (Piracicaba/SP)
 
 💻 Python Developer / RPA / Systems Analyst
 
