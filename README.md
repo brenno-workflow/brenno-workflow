@@ -75,23 +75,6 @@ I'm currently learning **modern C++**, coming from a Python/C# background.
 
 My goal is to understand not only how to create games, but also the **fundamentals behind game engines and low-level systems**.
 
-### Currently working with:
-
-- C++23
-- CMake
-- MSVC
-- Visual Studio
-- VS Code
-- Raylib
-- Object-Oriented Programming
-- `.h` / `.cpp` project organization
-- Compilation & linking
-- Build systems
-- Game architecture
-- Entity-based systems
-- 2D game development
-- Rendering fundamentals
-
 I'm particularly interested in **code-first game development**, reusable systems and eventually understanding how to build parts of a game engine myself.
 
 ---
