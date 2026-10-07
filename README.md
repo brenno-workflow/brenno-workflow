@@ -96,28 +96,6 @@ I'm particularly interested in **code-first game development**, reusable systems
 
 ---
 
-# What I Like
-
-🔧 Building things from scratch
-
-🧠 Understanding how systems work internally
-
-🐍 Python development
-
-⚙️ Automation
-
-🤖 Artificial Intelligence
-
-🎮 Game development
-
-💻 Low-level programming
-
-🏗️ Software architecture
-
-📚 Learning through practical projects
-
----
-
 # 📊 GitHub
 
 ![Brenno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenno-workflow&show_icons=true&theme=dark)
